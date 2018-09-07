@@ -1,4 +1,4 @@
-# about.me
+# About.me
 
 "Its fun to study **How It Works**"
 
@@ -12,5 +12,3 @@
 * Interest : APP(Web, Native), Basics of computer science( OS, Network, CPU, Memory, Process, Thread.. etc ), Back-End(PHP, NodeJS)
 * Sites : blog, linkedin, github
 * E-mail : rpf5573@gmail.com
-
-
