@@ -10,7 +10,7 @@
   * Strong : Web( WordPress, HTML, CSS, SASS, Javascrip(ES6), PHP, MySQL ),
   * Knowledgeable : Native APP( iOS, Android ), NodeJS, Express, Raspberry-Pi, Python, AWS, Git, Jira
 * Interest : APP(Web, Native), Basics of computer science( OS, Network, CPU, Memory, Process, Thread.. etc ), Back-End(PHP, NodeJS)
-* Sites : blog, linkedin, github
+* Links : blog, linkedin, github, stackoverflow
 * E-mail : rpf5573@gmail.com
 
 # Projects
