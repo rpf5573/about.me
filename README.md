@@ -16,6 +16,7 @@
 # Projects
 ### `2015-06` ~ `2015-10` Discovery
   * 소개 : 기업의 신입사원 교육(레크레이션)을 하시는 아버지께서 오프라인 교육을 온라인으로 옮겨 인건비를 줄이자는 취지에서 만들게 되었습니다. Browser에서 구동되는 Web APP입니다.
+  * 시연 영상 : [관리자페이지(Google Drive Video)](https://drive.google.com/open?id=1Iup9o4eE72CYLRTalR7cHVY15iF3JZQE), [사용자페이지(Google Drive Video)](https://drive.google.com/open?id=1QGk5BG7uYyUTOKbNPdmSqIQQyZchrYFd)
   * 참여도 : 100%
   * 사용 기술 : PHP, MySQL, HTML, CSS, Javascript
   * 주요 기능
