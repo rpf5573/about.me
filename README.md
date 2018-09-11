@@ -13,6 +13,7 @@
 * Links : blog, linkedin, github, stackoverflow
 * E-mail : rpf5573@gmail.com
 
+
 # Projects
 ### `2015-06` ~ `2015-10` Discovery
   * 소개 : 기업의 신입사원들을 대상으로 레크레이션강사를 하시는 아버지의 요청으로 만들게 되었습니다. 교육생분들의 오프라인활동을 보조해주는 프로그램입니다. 브라우저에서 미션을 확인할 수 있고, 미션을 수행한 결과(사진/동영상)을 업로드 하는 등의 기능이 있습니다. Web Browser에서 구동되는 Web App입니다.
@@ -71,3 +72,13 @@
   * 주요기능
     * 
   * 기타 : WordPress의 오픈소스 AnsPress라는 QnA전용 플러그인을 커스터마이징 해서 만들었습니다. 해당 오픈소스 프로그램의 소스코드를 많이 읽어보면서 버그나 개선해야할 점들을 해당 오픈소스의 Github에 기여하다보니, Contributor가 되었습니다.
+
+
+# Writings
+  * NodeJS
+    * 비동기방식은 왜 효율적일까?
+    * event-loop는 어떻게 작동하는가?
+    * nodejs는 정말 thread를 하나만 사용할까(single-thread)?
+    * 어떻게 C++함수를 NodeJS에서 쓸 수 있는걸까?
+    * OS가 I/O작업을 완수한후에 어떤 방식으로 event-queue에 callback function을 넣을까?
+    * 내 app.js에서 Timer Module을 include(require)하지 않았는데, 어떻게 setTimeout()함수를 쓸 수 있는걸까?
