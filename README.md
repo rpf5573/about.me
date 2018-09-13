@@ -79,8 +79,8 @@
     * 비동기방식은 왜 효율적일까?
     * event-loop는 어떻게 작동하는가?
     * nodejs는 정말 thread를 하나만 사용할까(single-thread)?
-    * 어떻게 C++함수를 NodeJS에서 쓸 수 있는걸까?
+    * 어떻게 C++함수를 node.js에서 쓸 수 있는걸까?
     * OS가 I/O작업을 완수한후에 어떤 방식으로 event-queue에 callback function을 넣을까?
-    * 내 app.js에서 Timer Module을 include(require)하지 않았는데, 어떻게 setTimeout()함수를 쓸 수 있는걸까?
+    * 내 index.js에서 Timer Module을 include(require)하지 않았는데, 어떻게 setTimeout()함수를 쓸 수 있는걸까?
     * Terminal(Command Line Tool)에서 node index.js를 치면 무슨일이 일어날까?
     * process.nextTick() vs setTimeout(fn, 0) vs setImmediate(fn, 0)
