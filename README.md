@@ -83,3 +83,4 @@
     * OS가 I/O작업을 완수한후에 어떤 방식으로 event-queue에 callback function을 넣을까?
     * 내 app.js에서 Timer Module을 include(require)하지 않았는데, 어떻게 setTimeout()함수를 쓸 수 있는걸까?
     * Terminal(Command Line Tool)에서 node index.js를 치면 무슨일이 일어날까?
+    * process.nextTick() vs setTimeout(fn, 0)
