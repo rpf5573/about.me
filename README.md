@@ -76,6 +76,7 @@
 
 # Writings
   * NodeJS
+    * Blocking vs Non-Blocking
     * 비동기방식은 왜 효율적일까?
     * event-loop는 어떻게 작동하는가?
     * nodejs는 정말 thread를 하나만 사용할까(single-thread)?
