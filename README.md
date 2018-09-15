@@ -85,3 +85,4 @@
     * 내 index.js에서 Timer Module을 include(require)하지 않았는데, 어떻게 setTimeout()함수를 쓸 수 있는걸까?
     * Terminal(Command Line Tool)에서 node index.js를 치면 무슨일이 일어날까?
     * process.nextTick() vs setTimeout(fn, 0) vs setImmediate(fn, 0)
+    * 내 index.js파일은 어느 타이밍에 누구에 의해서 컴파일되고 실행될까?
