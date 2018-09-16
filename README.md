@@ -76,11 +76,11 @@
 
 # Writings
   * NodeJS
-    * [Blocking vs Non-Blocking][https://medium.com/@rpf5573/nodejs-blocking-vs-non-blocking-8f92f2b522a7]
+    * [Blocking vs Non-Blocking](https://medium.com/@rpf5573/nodejs-blocking-vs-non-blocking-8f92f2b522a7)
     * event-loop는 어떻게 작동하는가?
     * nodejs는 정말 thread를 하나만 사용할까(single-thread)?
     * 어떻게 C++함수를 node.js에서 쓸 수 있는걸까?
     * OS가 I/O작업을 완수한후에 어떤 방식으로 event-queue에 callback function을 넣을까?
-    * [Terminal(Command Line Tool)에서 node index.js를 치면 무슨일이 일어날까?][https://medium.com/@rpf5573/terminal%EC%97%90%EC%84%9C-node-index-js%EB%A5%BC-%EC%B9%98%EB%A9%B4-%EB%AC%B4%EC%8A%A8%EC%9D%BC%EC%9D%B4-%EC%9D%BC%EC%96%B4%EB%82%A0%EA%B9%8C-af6c75ee4800]
+    * [Terminal(Command Line Tool)에서 node index.js를 치면 무슨일이 일어날까?](https://medium.com/@rpf5573/terminal%EC%97%90%EC%84%9C-node-index-js%EB%A5%BC-%EC%B9%98%EB%A9%B4-%EB%AC%B4%EC%8A%A8%EC%9D%BC%EC%9D%B4-%EC%9D%BC%EC%96%B4%EB%82%A0%EA%B9%8C-af6c75ee4800)
     * process.nextTick() vs setTimeout(fn, 0) vs setImmediate(fn, 0)
     * 내 index.js파일은 어느 타이밍에 누구에 의해서 컴파일되고 실행될까?
