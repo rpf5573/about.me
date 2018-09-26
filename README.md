@@ -77,7 +77,7 @@
 # Writings
   * NodeJS
     * [Blocking vs Non-Blocking](https://medium.com/@rpf5573/nodejs-blocking-vs-non-blocking-8f92f2b522a7)
-    * event-loop는 어떻게 작동하는가?
+    * [Event-Loop Part 1 : Big Picture](https://medium.com/@rpf5573/nodejs-event-loop-part-1-big-picture-7ed38f830f67)
     * nodejs는 정말 thread를 하나만 사용할까(single-thread)?
     * 어떻게 C++함수를 node.js에서 쓸 수 있는걸까?
     * OS가 I/O작업을 완수한후에 어떤 방식으로 event-queue에 callback function을 넣을까?
