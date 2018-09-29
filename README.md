@@ -79,6 +79,8 @@
     * [Blocking vs Non-Blocking](https://medium.com/@rpf5573/nodejs-blocking-vs-non-blocking-8f92f2b522a7)
     * [Event-Loop Part 1 : Big Picture](https://medium.com/@rpf5573/nodejs-event-loop-part-1-big-picture-7ed38f830f67)
     * [nodejs는 single thread가 아니다](https://medium.com/@rpf5573/nodejs-nodejs%EB%8A%94-single-thread%EA%B0%80-%EC%95%84%EB%8B%88%EB%8B%A4-f02b0278c390)
+    * fs.readFile() 추적기
+    * [nodejs는 single thread가 아니다](https://medium.com/@rpf5573/nodejs-nodejs%EB%8A%94-single-thread%EA%B0%80-%EC%95%84%EB%8B%88%EB%8B%A4-f02b0278c390
     * 어떻게 C++함수를 node.js에서 쓸 수 있는걸까?
     * OS가 I/O작업을 완수한후에 어떤 방식으로 event-queue에 callback function을 넣을까?
     * [Terminal(Command Line Tool)에서 node index.js를 치면 무슨일이 일어날까?](https://medium.com/@rpf5573/terminal%EC%97%90%EC%84%9C-node-index-js%EB%A5%BC-%EC%B9%98%EB%A9%B4-%EB%AC%B4%EC%8A%A8%EC%9D%BC%EC%9D%B4-%EC%9D%BC%EC%96%B4%EB%82%A0%EA%B9%8C-af6c75ee4800)
