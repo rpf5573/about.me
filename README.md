@@ -30,7 +30,7 @@
     
 ### `2016-01 ~ 2016-09` DeepMind
   * 소개 : 이름과 달리 인공지능과 아무런 연관성이 없습니다. 이것또한 아버지의 요청으로 만들게 되었습니다. Discovery와 기본적인 기능들은 같지만, 다른 팀원을 아웃시키는 기능이 있다는 특징이 있으며, Android와 iOS에서 구동되는 Native App입니다.
-  * 시연 영상 :
+  * 시연 영상 : [iOS App(Google Drive Video)](https://drive.google.com/open?id=1aV16rPiWpza38Gd7mnnHiiSaAhVwmk9M) , [관리자페이지(Google Drive Video)](https://drive.google.com/open?id=1zp97Hes7XKngk1i2oXv7zjm6zVJjO-9W), Android App
   * 참여도 : 100%
   * 사용기술 : PHP, Swift(iOS), Java(Android), MySQL, HTML, CSS, Javascript
   * 주요 기능
@@ -53,10 +53,10 @@
   
 
 ### `2017-11 ~ 2018-02` QueensMallo
-  * 소개 : 회사에서 진행한 프로젝트입니다. 호주와 한국을 대상으로 하는 쇼핑몰입니다.
-  * 링크 : queensmallo.com( 서버가 호주에 있어서 속도가 느립니다 )
+  * 소개 : 회사에서 진행한 프로젝트입니다. 호주와 한국을 대상으로 하는 다국어 쇼핑몰입니다.
+  * 링크 : [queensmallo.com](https://queensmallo.com)( 서버가 호주에 있어서 속도가 느립니다 )
   * 참여도 : 100%
-  * 사용기술 : WordPress( PHP, MySQL, CSS, Javascript )
+  * 사용기술 : WordPress( PHP, MySQL, CSS, Javascript ), WooCommerce
   * 주요기능
     * 기본 : 상품 리스트, 상품 상세페이지, 장바구니, 결제, 배송추적 등등
     * 구매대행 요청 : 유저는 쇼핑몰 매니저에게 구매대행 신청 폼을 통하여 구매대행을 요청할 수 있습니다
@@ -66,12 +66,13 @@
 
 ### `2018-03 ~ 2018-08` Alpool
   * 소개 : 회사에서 진행한 프로젝트입니다. 네이버의 지식인과 비슷한, 공무원/자격증 QnA사이트 입니다.
-  * 링크 : alpool.co.kr
+  * 링크 : [alpool.co.kr](https://alpool.co.kr), [주요기능 설명(Google Document)](https://docs.google.com/presentation/d/1aCWGoAB_oEYuqMxVX6IFdXGSHU6IFl5JfvrL1dxd0L0/edit?usp=sharing), [테스트 시트(Google Sheet)](https://docs.google.com/spreadsheets/d/1yVp36GoghCFS5IiaD6R6sGfHxGKMaH19ZC_Vw3EaWFo/edit?usp=sharing)
   * 참여도 : 90%
   * 사용기술 : WordPress(PHP, MySQL, HTML, CSS, Javascript)
   * 주요기능
-    * 
-  * 기타 : WordPress의 오픈소스 AnsPress라는 QnA전용 플러그인을 커스터마이징 해서 만들었습니다. 해당 오픈소스 프로그램의 소스코드를 많이 읽어보면서 버그나 개선해야할 점들을 해당 오픈소스의 Github에 기여하다보니, Contributor가 되었습니다.
+    * 질문 생성/수정/삭제
+    * 답변 생성/
+  * 기타 : WordPress의 오픈소스 [AnsPress](https://github.com/anspress/anspress)라는 QnA전용 플러그인을 커스터마이징 해서 만들었습니다. 해당 오픈소스 프로그램의 소스코드를 많이 읽어보면서 버그나 개선해야할 점들을 해당 오픈소스의 Github에 기여하다보니, [Contributor가 되었습니다(rpf5573)](https://github.com/anspress/anspress/graphs/contributors).
 
 
 # Writings
