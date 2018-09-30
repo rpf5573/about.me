@@ -66,12 +66,12 @@
 
 ### `2018-03 ~ 2018-08` Alpool
   * 소개 : 회사에서 진행한 프로젝트입니다. 네이버의 지식인과 비슷한, 공무원/자격증 QnA사이트 입니다.
-  * 링크 : [alpool.co.kr](https://alpool.co.kr), [주요기능 설명(Google Document)](https://docs.google.com/presentation/d/1aCWGoAB_oEYuqMxVX6IFdXGSHU6IFl5JfvrL1dxd0L0/edit?usp=sharing), [테스트 시트(Google Sheet)](https://docs.google.com/spreadsheets/d/1yVp36GoghCFS5IiaD6R6sGfHxGKMaH19ZC_Vw3EaWFo/edit?usp=sharing)
+  * 링크 : [alpool.co.kr](https://alpool.co.kr)
   * 참여도 : 90%
   * 사용기술 : WordPress(PHP, MySQL, HTML, CSS, Javascript)
   * 주요기능
-    * 질문 생성/수정/삭제
-    * 답변 생성/
+    - [주요기능 설명(Google Document)](https://docs.google.com/presentation/d/1aCWGoAB_oEYuqMxVX6IFdXGSHU6IFl5JfvrL1dxd0L0/edit?usp=sharing)
+    - [테스트 시트(Google Sheet)](https://docs.google.com/spreadsheets/d/1yVp36GoghCFS5IiaD6R6sGfHxGKMaH19ZC_Vw3EaWFo/edit?usp=sharing)
   * 기타 : WordPress의 오픈소스 [AnsPress](https://github.com/anspress/anspress)라는 QnA전용 플러그인을 커스터마이징 해서 만들었습니다. 해당 오픈소스 프로그램의 소스코드를 많이 읽어보면서 버그나 개선해야할 점들을 해당 오픈소스의 Github에 기여하다보니, [Contributor가 되었습니다(rpf5573)](https://github.com/anspress/anspress/graphs/contributors).
 
 
