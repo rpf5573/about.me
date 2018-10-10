@@ -1,6 +1,6 @@
 # About.me
 
-> "Its fun to study **How It Works**"
+> "Its fun to know **How It Works**"
 
 * 이름 : 윤병인
 * 나이 : 24살(1995년생)
