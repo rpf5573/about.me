@@ -3,6 +3,8 @@
 > "Its fun to study **How It Works**"
 
 * 이름 : 윤병인
+* 나이 : 24살(1995년생)
+* 군필여부 : 미필
 * 국적 : 한국
 * 취미 : 요가, 스타크래프트(게임), Youtube시청
 * 학력 : 고졸(대학중퇴)
@@ -12,6 +14,7 @@
 * Interest : APP(Web, Native), Back-End(PHP, NodeJS)
 * Links : [blog](https://medium.com/@rpf5573), [linkedin](https://www.linkedin.com/in/byeongin-yoon-332b27148/), [github](https://github.com/rpf5573), [stackoverflow](https://stackoverflow.com/users/9279003/byeongin-yoon)
 * E-mail : rpf5573@gmail.com
+* Tel : 010-9619-0918
 
 
 # Projects
