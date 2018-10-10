@@ -6,7 +6,7 @@
 * 나이 : 24살(1995년생)
 * 군필여부 : 미필
 * 국적 : 한국
-* 취미 : 요가, 스타크래프트(게임), Youtube시청
+* 취미 : 요가, 스타크래프트(하수), Youtube시청
 * 학력 : 고졸(대학중퇴)
 * 기술
   * Strong : Web( WordPress, HTML, CSS, SASS(SCSS), Javascrip, PHP, MySQL ),
