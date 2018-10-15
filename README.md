@@ -92,9 +92,8 @@
   * 참여도 : 100%
   * 사용기술 : NodeJS, Express, Socket.io, HTML, CSS, Javascript
   * 주요기능
-    - Stripe를 통한 결제 기능
+    - 실시간 그룹 채팅
     - Social Login(Google)
-    - SendGrid 메일 API를 사용하여 다수의 고객에게 메일을 보낼 수 있음
   * 기타 : 공부용으로 만든것이기 때문에 미흡한 부분이 상당히 많습니다. [Udemy 강좌](https://www.udemy.com/node-with-socketio-build-a-full-web-chat-app-from-scratch/)를 보고 따라 만들었습니다.
   
 
