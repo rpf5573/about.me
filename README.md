@@ -84,7 +84,18 @@
     - Stripe를 통한 결제 기능
     - Social Login(Google)
     - SendGrid 메일 API를 사용하여 다수의 고객에게 메일을 보낼 수 있음
-  * 기타 : 공부용으로 만든것이기 때문에 미흡한 부분이 상당히 많습니다.
+  * 기타 : 공부용으로 만든것이기 때문에 미흡한 부분이 상당히 많습니다. [Udemy 강좌](https://www.udemy.com/node-with-react-fullstack-web-development/)를 보고 따라 만들었습니다.
+  
+### `2018-10` FootballKik
+  * 소개 : 그룹 채팅 사이트입니다. Socket.io 공부용으로 제작하였습니다.
+  * 시연 영상 : [Google Drive Video](https://drive.google.com/open?id=105kDfa3i4c2x_Z6nHcEcuC7f6V3DUri0)
+  * 참여도 : 100%
+  * 사용기술 : NodeJS, Express, Socket.io, HTML, CSS, Javascript
+  * 주요기능
+    - Stripe를 통한 결제 기능
+    - Social Login(Google)
+    - SendGrid 메일 API를 사용하여 다수의 고객에게 메일을 보낼 수 있음
+  * 기타 : 공부용으로 만든것이기 때문에 미흡한 부분이 상당히 많습니다. [Udemy 강좌](https://www.udemy.com/node-with-socketio-build-a-full-web-chat-app-from-scratch/)를 보고 따라 만들었습니다.
   
 
 # Writings
