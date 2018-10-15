@@ -14,8 +14,7 @@
 * Links : [blog](https://medium.com/@rpf5573), [linkedin](https://www.linkedin.com/in/byeongin-yoon-332b27148/), [github](https://github.com/rpf5573), [stackoverflow](https://stackoverflow.com/users/9279003/byeongin-yoon)
 * E-mail : rpf5573@gmail.com
 * Tel : 010-9619-0918
-
-<br><br>
+<br><br><br>
 
 # Projects
 ### `2015-06` ~ `2015-10` Discovery
@@ -103,8 +102,7 @@
     - Social Login(Google)
     - AWS S3에 사용자 이미지 저장
   * 기타 : 공부용으로 만든것이기 때문에 미흡한 부분이 상당히 많습니다. [Udemy 강좌](https://www.udemy.com/node-with-socketio-build-a-full-web-chat-app-from-scratch/)를 보고 따라 만들었습니다.
-<br><br> 
-
+<br><br><br>
 
 # Writings
   * NodeJS
