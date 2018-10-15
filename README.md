@@ -16,6 +16,7 @@
 * Tel : 010-9619-0918
 
 
+
 # Projects
 ### `2015-06` ~ `2015-10` Discovery
   * 소개 : 기업의 신입사원들을 대상으로 레크레이션강사를 하시는 아버지의 요청으로 만들게 되었습니다. 교육생분들의 오프라인활동을 보조해주는 프로그램입니다. 브라우저에서 미션을 확인할 수 있고, 미션을 수행한 결과(사진/동영상)을 업로드 하는 등의 기능이 있습니다. Web Browser에서 구동되는 Web App입니다.
@@ -43,6 +44,7 @@
     * 아웃 : 다른팀의 팀원을 아웃시킬 수 있습니다
     * 비콘 : 교육장 곳곳에 비콘을 숨겨놓고, 유저는 앱을 켜서 비콘에 3m안에 들어오면 특별 미션을 확인할 수 있습니다.
     
+    
 ### `2017-08 ~ 2017-11` 식물개발키트
   * 소개 : 라즈베리파이를 사용해서 식물의 상태를 체크하고, 그것을 앱에서 확인하고 약간 제어할 수 있는 키트입니다.
   * 참여도 : 100%
@@ -51,6 +53,7 @@
     * 온도, 습도, 광량 측정 : 라즈베리파이에 여러센서를 달았습니다. 결과값은 라즈베리파이가 서버에 업로드하고, 앱에서 확인 가능합니다.
     * 영상 촬영 : 라즈베리파이에 카메라 모듈을 달아서 3일 단위로 식물의 슬로우 모션 영상을 찍었습니다. 라즈베리파이가 주기적으로 서버에 영상을 업로드 하면, 앱에서 확인 가능합니다
   * 기타 : 이 프로젝트는 결국 실패하였습니다. 왜냐하면, (1)라즈베리파이를 소형화 하는데 1천만원 이상의 견적을 하드웨어 업체로부터 받았고, (2)라즈베리파이와 와이파이를 핸드폰을 매개로하여 서로 연결시키는 작업이 어려웠기 때문입니다.
+  
   
 ### `2017-11 ~ 2018-02` QueensMallo
   * 소개 : 회사에서 진행한 프로젝트입니다. 호주와 한국을 대상으로 하는 다국어 쇼핑몰입니다.
@@ -64,6 +67,7 @@
     * 포인트 적립 : 상품 구매시 포인트를 얻고, 이 포인트는 다음 결제시에 현금처럼 사용 가능합니다
   * 기타 : 이 프로젝트는 WooCommerce라는 WordPress의 쇼핑몰 플러그인을 사용해서 진행했습니다. 처음으로 쇼핑몰을 만들어본거였지만, 성공적으로 끝났습니다.
 
+
 ### `2018-03 ~ 2018-08` Alpool
   * 소개 : 회사에서 진행한 프로젝트입니다. 네이버의 지식인과 비슷한, 공무원/자격증 QnA사이트 입니다.
   * 링크 : [alpool.co.kr](https://alpool.co.kr)
@@ -73,6 +77,7 @@
     - [주요기능 설명(Google Document)](https://docs.google.com/presentation/d/1aCWGoAB_oEYuqMxVX6IFdXGSHU6IFl5JfvrL1dxd0L0/edit?usp=sharing)
     - [테스트 시트(Google Sheet)](https://docs.google.com/spreadsheets/d/1yVp36GoghCFS5IiaD6R6sGfHxGKMaH19ZC_Vw3EaWFo/edit?usp=sharing)
   * 기타 : WordPress의 오픈소스 [AnsPress](https://github.com/anspress/anspress)라는 QnA전용 플러그인을 커스터마이징 해서 만들었습니다. 해당 오픈소스 프로그램의 소스코드를 많이 읽어보면서 버그나 개선해야할 점들을 해당 오픈소스의 Github에 기여하다보니, [Contributor가 되었습니다(rpf5573)](https://github.com/anspress/anspress/graphs/contributors).
+
 
 ### `2018-10` Emily
   * 소개 : Sendgrid API를 활용하여 유저에게 설문조사 메일을 보내주는 사이트입니다. NodeJS + ReactJS 공부용으로 만들었습니다.
@@ -86,6 +91,7 @@
     - SendGrid 메일 API를 사용하여 다수의 고객에게 메일을 보낼 수 있음
   * 기타 : 공부용으로 만든것이기 때문에 미흡한 부분이 상당히 많습니다. [Udemy 강좌](https://www.udemy.com/node-with-react-fullstack-web-development/)를 보고 따라 만들었습니다.
   
+  
 ### `2018-10` FootballKik
   * 소개 : 그룹 채팅 사이트입니다. NodeJS + Socket.io 공부용으로 제작하였습니다.
   * 시연 영상 : [Google Drive Video](https://drive.google.com/open?id=105kDfa3i4c2x_Z6nHcEcuC7f6V3DUri0)
@@ -97,6 +103,7 @@
     - AWS S3에 사용자 이미지 저장
   * 기타 : 공부용으로 만든것이기 때문에 미흡한 부분이 상당히 많습니다. [Udemy 강좌](https://www.udemy.com/node-with-socketio-build-a-full-web-chat-app-from-scratch/)를 보고 따라 만들었습니다.
   
+
 
 # Writings
   * NodeJS
