@@ -79,7 +79,7 @@
   * 링크 : [herokuapp](https://desolate-ocean-25062.herokuapp.com/)
   * 시연 영상 : [Google Drive Video](https://drive.google.com/open?id=19Qi9lNYFHi1Gd_Fgh8meC2stDWoIIgm8)
   * 참여도 : 100%
-  * 사용기술 : NodeJS, Express, ReactJS, Redux
+  * 사용기술 : NodeJS, Express, MongoDB, ReactJS, Redux
   * 주요기능
     - Stripe를 통한 결제 기능
     - Social Login(Google)
@@ -87,13 +87,14 @@
   * 기타 : 공부용으로 만든것이기 때문에 미흡한 부분이 상당히 많습니다. [Udemy 강좌](https://www.udemy.com/node-with-react-fullstack-web-development/)를 보고 따라 만들었습니다.
   
 ### `2018-10` FootballKik
-  * 소개 : 그룹 채팅 사이트입니다. Socket.io 공부용으로 제작하였습니다.
+  * 소개 : 그룹 채팅 사이트입니다. NodeJS + Socket.io 공부용으로 제작하였습니다.
   * 시연 영상 : [Google Drive Video](https://drive.google.com/open?id=105kDfa3i4c2x_Z6nHcEcuC7f6V3DUri0)
   * 참여도 : 100%
-  * 사용기술 : NodeJS, Express, Socket.io, HTML, CSS, Javascript
+  * 사용기술 : NodeJS, Express, Socket.io, AWS, MongoDB, HTML, CSS, Javascript
   * 주요기능
     - 실시간 그룹 채팅
     - Social Login(Google)
+    - AWS S3에 사용자 이미지 저장
   * 기타 : 공부용으로 만든것이기 때문에 미흡한 부분이 상당히 많습니다. [Udemy 강좌](https://www.udemy.com/node-with-socketio-build-a-full-web-chat-app-from-scratch/)를 보고 따라 만들었습니다.
   
 
