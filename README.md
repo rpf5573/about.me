@@ -67,7 +67,7 @@
     * 다국어 : 영어와 한국어를 지원합니다
     * 포인트 적립 : 상품 구매시 포인트를 얻고, 이 포인트는 다음 결제시에 현금처럼 사용 가능합니다
   * 기타 : 이 프로젝트는 WooCommerce라는 WordPress의 쇼핑몰 플러그인을 사용해서 진행했습니다. 처음으로 쇼핑몰을 만들어본거였지만, 성공적으로 끝났습니다.
-
+<br><br>
 
 ### `2018-03 ~ 2018-08` Alpool
   * 소개 : 회사에서 진행한 프로젝트입니다. 네이버의 지식인과 비슷한, 공무원/자격증 QnA사이트 입니다.
@@ -78,7 +78,7 @@
     - [주요기능 설명(Google Document)](https://docs.google.com/presentation/d/1aCWGoAB_oEYuqMxVX6IFdXGSHU6IFl5JfvrL1dxd0L0/edit?usp=sharing)
     - [테스트 시트(Google Sheet)](https://docs.google.com/spreadsheets/d/1yVp36GoghCFS5IiaD6R6sGfHxGKMaH19ZC_Vw3EaWFo/edit?usp=sharing)
   * 기타 : WordPress의 오픈소스 [AnsPress](https://github.com/anspress/anspress)라는 QnA전용 플러그인을 커스터마이징 해서 만들었습니다. 해당 오픈소스 프로그램의 소스코드를 많이 읽어보면서 버그나 개선해야할 점들을 해당 오픈소스의 Github에 기여하다보니, [Contributor가 되었습니다(rpf5573)](https://github.com/anspress/anspress/graphs/contributors).
-
+<br><br>
 
 ### `2018-10` Emily
   * 소개 : Sendgrid API를 활용하여 유저에게 설문조사 메일을 보내주는 사이트입니다. NodeJS + ReactJS 공부용으로 만들었습니다.
@@ -91,7 +91,7 @@
     - Social Login(Google)
     - SendGrid 메일 API를 사용하여 다수의 고객에게 메일을 보낼 수 있음
   * 기타 : 공부용으로 만든것이기 때문에 미흡한 부분이 상당히 많습니다. [Udemy 강좌](https://www.udemy.com/node-with-react-fullstack-web-development/)를 보고 따라 만들었습니다.
-  
+<br><br> 
   
 ### `2018-10` FootballKik
   * 소개 : 그룹 채팅 사이트입니다. NodeJS + Socket.io 공부용으로 제작하였습니다.
@@ -103,7 +103,7 @@
     - Social Login(Google)
     - AWS S3에 사용자 이미지 저장
   * 기타 : 공부용으로 만든것이기 때문에 미흡한 부분이 상당히 많습니다. [Udemy 강좌](https://www.udemy.com/node-with-socketio-build-a-full-web-chat-app-from-scratch/)를 보고 따라 만들었습니다.
-  
+<br><br> 
 
 
 # Writings
