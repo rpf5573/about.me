@@ -5,8 +5,8 @@
 * 이름 : 윤병인
 * 나이 : 24살(1995년생)
 * 국적 : 한국
-* 취미 : 요가, 스타크래프트(하수), Youtube시청
-* 학력 : 고졸(대학중퇴)
+* 취미 : 요가, 스타크래프트, Youtube시청
+* 학력 : 고졸(한양대학교 에리카 중퇴)
 * 기술
   * Strong : Web( WordPress, HTML, CSS, SASS(SCSS), Javascrip, PHP, MySQL )
   * Knowledgeable : Native APP( iOS, Android ), NodeJS, Express, ReactJS, Swift, Java, C, Raspberry-Pi, Python, AWS
