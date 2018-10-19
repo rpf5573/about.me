@@ -18,7 +18,7 @@
 <br><br><br>
 
 # Career
-### `2017-11` ~ `2018-09` (Presscat)[https://presscat.co.kr/]
+### `2017-11` ~ `2018-09` [Presscat](https://presscat.co.kr/)
 * 직함 : 개발 팀원
 * 지역 : 서울 마포구
 * 역할
