@@ -118,7 +118,7 @@
   * NodeJS
     * [Blocking vs Non-Blocking](https://medium.com/@rpf5573/nodejs-blocking-vs-non-blocking-8f92f2b522a7)
     * [Event-Loop Part 1 : Big Picture](https://medium.com/@rpf5573/nodejs-event-loop-part-1-big-picture-7ed38f830f67)
-    * Event-Loop Part 2 : setTimeout() vs setImmediate() vs process.nextTick()
+    * [Event-Loop Part 2 : setTimeout() vs setImmediate() vs process.nextTick()](https://medium.com/@rpf5573/nodejs-event-loop-part-2-settimeout-vs-setimmediate-vs-process-nexttick-70ba2a9f0895)
     * [nodejs는 single thread가 아니다](https://medium.com/@rpf5573/nodejs-nodejs%EB%8A%94-single-thread%EA%B0%80-%EC%95%84%EB%8B%88%EB%8B%A4-f02b0278c390)
     * fs.readFile() 추적기
     * OS가 I/O작업을 완수한후에 어떤 방식으로 event-queue에 callback function을 넣을까?
