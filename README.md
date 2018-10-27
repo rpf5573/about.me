@@ -126,3 +126,4 @@
     * next tick queue에 있는 callback 함수들은 누가 언제 호출하는가?
     * [번역]Linux IO model and select, poll, epoll
   * ReactJS
+    * [번역][Finally understand Redux by building your own Store](https://toddmotto.com/redux-typescript-store)
