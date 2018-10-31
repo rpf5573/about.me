@@ -127,3 +127,4 @@
     * [번역]Linux IO model and select, poll, epoll
   * ReactJS
     * [번역][Finally understand Redux by building your own Store](https://toddmotto.com/redux-typescript-store)
+    * redux의 reducer는 new state를 return하는데, 이걸 가지고 뭘하는거지?
