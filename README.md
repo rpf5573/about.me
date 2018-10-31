@@ -128,3 +128,4 @@
   * ReactJS
     * [번역][Finally understand Redux by building your own Store](https://toddmotto.com/redux-typescript-store)
     * redux의 reducer는 new state를 return하는데, 이걸 가지고 뭘하는거지?
+    * redux의 reducer는 왜 이름이 reducer인가?
