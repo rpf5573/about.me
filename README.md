@@ -131,3 +131,4 @@
     * redux의 reducer는 왜 이름이 reducer인가?
     * react-redux에서 connect를 쓰는 여러가지 방법들(++스트레스)
     * react-redux에서 connect의 용도가 뭐야? 왜 만들어진거야?
+    * state vs props
