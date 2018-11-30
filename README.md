@@ -133,3 +133,4 @@
     * react-redux에서 connect의 용도가 뭐야? 왜 만들어진거야?
     * state vs props
     * todo app step by step. jQuery -> javascript -> reactjs -> reactjs + redux -> reactjs + redux + react-redux
+    * ReactJS + Redux 격파하기
