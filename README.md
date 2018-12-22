@@ -12,7 +12,7 @@
   * Knowledgeable : Native APP( iOS, Android ), NodeJS, Express, ReactJS, Swift, Java, C, Raspberry-Pi, Python, AWS
 * DevOps : Docker, Jenkins, Jira, Git, Confluence, Trello
 * Interest : APP(Web, Native), Back-End(PHP, NodeJS)
-* Links : [blog](https://medium.com/@rpf5573), [linkedin](https://www.linkedin.com/in/byeongin-yoon-332b27148/), [github](https://github.com/rpf5573), [stackoverflow](https://stackoverflow.com/users/9279003/byeongin-yoon)
+* Links : [blog](https://medium.com/@rpf5573), [linkedin](https://yoon.site/), [github](https://github.com/rpf5573), [stackoverflow](https://stackoverflow.com/users/9279003/byeongin-yoon)
 * E-mail : rpf5573@gmail.com
 * Tel : 010-9619-0918
 <br><br><br>
