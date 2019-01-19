@@ -8,13 +8,12 @@
 * 취미 : 요가, 스타크래프트, Youtube시청
 * 학력 : 고졸(한양대학교 에리카 중퇴)
 * 기술
-  * Strong : Web( WordPress, HTML, CSS, SASS(SCSS), Javascrip, PHP, MySQL )
-  * Knowledgeable : Native APP( iOS, Android ), NodeJS, Express, ReactJS, Swift, Java, C, Raspberry-Pi, Python, AWS
-* DevOps : Docker, Jenkins, Jira, Git, Confluence, Trello
-* Interest : APP(Web, Native), Back-End(PHP, NodeJS)
+  * Strong : WordPress, HTML, CSS, SASS(SCSS), Javascrip, PHP
+  * Knowledgeable : MySQL, NodeJS, ReactJS, IOS, Android
+* DevOps : Jira, Git, Trello
+* Interest : ReactJS, Node.js
 * Links : [blog](https://yoon.site/), [github](https://github.com/rpf5573), [stackoverflow](https://stackoverflow.com/users/9279003/byeongin-yoon)
 * E-mail : rpf5573@gmail.com
-* Tel : 010-9619-0918
 <br><br><br>
 
 # Career
