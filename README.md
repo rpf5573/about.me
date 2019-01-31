@@ -111,7 +111,22 @@
     - Social Login(Google)
     - AWS S3에 사용자 이미지 저장
   * 기타 : 공부용으로 만든 것이기 때문에 미흡한 부분이 상당히 많습니다. [Udemy 강좌](https://www.udemy.com/node-with-socketio-build-a-full-web-chat-app-from-scratch/)를 보고 따라 만들었습니다.
+<br><br>
+
+### `2018-12` ~ `2019-01` Discovery - React
+  * 소개 : 위의 Discovery를 React + Node.js로 다시 만들었습니다. 확실히 React로 상태관리를 하니 버그도 적어지고 코드 관리가 상당히 쉬워졌습니다. 기본 기능의 안정성을 더 향상시켰고, 빙고 기능을 추가하였습니다. 또한, 가상 서버를 구매하여 직접 서버 세팅을 하여서 매월 나가는 서버관리비용을 50%이상 줄였습니다.
+  * 시연 영상 : [관리자페이지(Google Drive Video)](https://drive.google.com/open?id=1XUVi94smJ6ZNrKiTSmE8BMY2t_E7_aql), [사용자페이지(Google Drive Video)](https://drive.google.com/open?id=1_n5G8EUWQSp2e5t_C6UUUpjzuCINGVHE)
+  * 참여도 : 100%
+  * 사용 기술 : Ubuntu, Node.js, MySQL, React, Redux, Socket.io, HTML5, CSS3, ES6, Webpack4, Babel7, Yarn, PM2
+  * 주요 기능
+    * 관리자 페이지 : 관리자페이지에서 교육 진행에 필요한 다양한 옵션들 설정 가능
+    * 업로드 : 유저가 자신의 핸드폰으로 찍은사진이나 동영상을 업로드 할 수 있습니다. Progress bar로 업로드 진행 상황을 확인 가능합니다.
+    * 통계 : 여러 팀들이 보유하고 있는 포인트를 심플한 통계페이지에서 확인 가능합니다
+    * 타이머 : 유저가 제한시간 내에 미션을 수행하는지 평가하기 위해서 타이머 기능을 넣었습니다. 브라우저가 꺼져도 
+    * 빙고 : 유저는 빙고페이지에서 박스를 열람합니다. 페이지를 새로고침 하지 않아도 실시간으로 다른 팀들이 박스를 열람하는것이 반영됩니다. 3개를 연결시키면 추가점수를 획득합니다.
+<br><br>
 <br><br><br>
+
 
 # Writings
   * NodeJS
