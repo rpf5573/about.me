@@ -7,6 +7,7 @@
 * 국적 : 한국
 * 취미 : 요가, 스타크래프트, Youtube시청
 * 학력 : 고졸(한양대학교 에리카 중퇴)
+* 자격증/어학 : 정보처리 산업기사(2017.11), 토익(785점)
 * 기술
   * Strong : WordPress, HTML, CSS, SASS(SCSS), Javascrip, PHP
   * Knowledgeable : MySQL, NodeJS, ReactJS, IOS, Android
