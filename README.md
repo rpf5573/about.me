@@ -141,7 +141,7 @@
     * next tick queue에 있는 callback 함수들은 누가 언제 호출하는가?
     * [번역]Linux IO model and select, poll, epoll
   * ReactJS
-    * [번역][Finally understand Redux by building your own Store](https://toddmotto.com/redux-typescript-store)
+    * Finally understand Redux by building your own Store
     * redux의 reducer는 new state를 return하는데, 이걸 가지고 뭘하는거지?
     * redux의 reducer는 왜 이름이 reducer인가?
     * react-redux에서 connect를 쓰는 여러가지 방법들(++스트레스)
