@@ -10,7 +10,7 @@
 * 자격증/어학 : 정보처리 산업기사(2017.11), 토익(785점)
 * 기술
   * Strong : WordPress, HTML, CSS, SASS(SCSS), Javascrip, PHP, MySQL, NodeJS, React(+Redux)
-  * Knowledgeable : Linux, AWS, IOS, Android
+  * Knowledgeable : Linux, AWS, iOS, Android
 * DevOps : Jira, Git, Trello
 * Interest : ReactJS, Node.js
 * Links : [blog](https://yoon.site/), [github](https://github.com/rpf5573), [stackoverflow](https://stackoverflow.com/users/9279003/byeongin-yoon)
