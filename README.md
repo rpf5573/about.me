@@ -30,7 +30,7 @@
 ## Main
 
 ### `2018-12` ~ `2019-01` Discovery - React
-  * 소개 : 위의 Discovery를 React + Node.js로 다시 만들었습니다. 확실히 React로 상태관리를 하니 버그도 적어지고 코드 관리가 상당히 쉬워졌습니다. 기본 기능의 안정성을 더 향상시켰고, 빙고 기능을 추가하였습니다. 또한, 가상 서버를 구매하여 직접 서버 세팅을 하여서 매월 나가는 서버관리비용을 50%이상 줄였습니다.
+  * 소개 : 신입사원 교육 훈련을 보조하는 프로그램입니다. 레크레이션 강사분들이 기업교육에 이 프로그램을 적극 활용하고 있습니다.
   * 시연 영상 : [관리자페이지(Google Drive Video)](https://drive.google.com/open?id=1XUVi94smJ6ZNrKiTSmE8BMY2t_E7_aql), [사용자페이지(Google Drive Video)](https://drive.google.com/open?id=1_n5G8EUWQSp2e5t_C6UUUpjzuCINGVHE)
   * 참여도 : 100%
   * 사용 기술 : Ubuntu, Node.js, MySQL, React, Redux, Socket.io, HTML5, CSS3, ES6, Webpack4, Babel7, Yarn, PM2
