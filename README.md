@@ -4,15 +4,13 @@
 
 * 이름 : 윤병인
 * 나이 : 25살(1995년생)
-* 국적 : 한국
-* 취미 : 게임, 요가
 * 학력 : 고졸(한양대학교 에리카 중퇴)
 * 자격증/어학 : 정보처리 산업기사(2017.11), 토익(785점)
 * 기술
   * Strong : WordPress, HTML, CSS, SASS(SCSS), Javascript, PHP, MySQL, NodeJS, React(+Redux)
   * Knowledgeable : Linux, AWS, iOS(Swift), Android(Java)
 * DevOps : Jira, Git, Trello
-* Interest : React, Node.js
+* Interest : Web Programming
 * Links : [blog](https://yoon.site/), [github](https://github.com/rpf5573), [stackoverflow](https://stackoverflow.com/users/9279003/byeongin-yoon)
 * E-mail : rpf5573@gmail.com
 <br><br><br>
