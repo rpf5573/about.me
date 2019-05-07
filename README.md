@@ -7,7 +7,7 @@
 * 학력 : 고졸(한양대학교 에리카 중퇴)
 * 자격증/어학 : 정보처리 산업기사(2017.11), 토익(785점)
 * 기술
-  * Strong : WordPress, HTML, CSS, SASS(SCSS), Javascript, PHP, MySQL, NodeJS, React(+Redux)
+  * Strong : WordPress, React(+Redux), SASS, Typescript(+Javascript), PHP, MySQL, NodeJS
   * Knowledgeable : Linux, AWS, iOS(Swift), Android(Java)
 * DevOps : Jira, Git, Trello
 * Interest : Web Programming
