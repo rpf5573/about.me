@@ -1,6 +1,6 @@
 # About.me
 
-> "Its fun to know **How It Works**"
+> "한걸음 한걸음 :D"
 
 * 이름 : 윤병인
 * 나이 : 25살(1995년생)
