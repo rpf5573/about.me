@@ -28,6 +28,17 @@
 # Projects
 ## Main
 
+### `2019-03` ~ `2019-07` 음성인식 포크레인
+  * 소개 : 앱에서 음성으로 명령을 내려서 포크레인 장난감을 동작시키는 프로젝트입니다. 기업의 레크레이션 활동에 사용하기 위해서 만들었습니다.
+  * 시연 영상 : [작동영상(Google Drive Video)](https://drive.google.com/open?id=1Jy__hfxJhwODZStBajLXR5ns_bAmvJ4-), [앱(Google Drive Video)](https://drive.google.com/open?id=1c6P4M-L_L9WaAsH1h_HR6iKTr9k7Z3by)
+  * 참여도 : 70%
+  * 사용 기술 : React-Native, Node.js, MySQL, Ngrok, 라즈베리파이, 아두이노, 납땜
+  * 주요 기능
+    * 전진/후진/좌/우 등등 다양한 동작 가능
+    * 포켓와이파이 한대에 여러개의 자동차를 물릴 수 있고, Ngrok 소프트웨어를 사용하여 지구 반대편에서도 포크레인을 동작시킬 수 있음
+    * 음성인식을 통한 구동
+<br><br>
+
 ### `2018-12` ~ `2019-01` Discovery - React
   * 소개 : 신입사원 교육 훈련을 보조하는 프로그램입니다. 레크레이션 강사분들이 기업교육에 이 프로그램을 적극 활용하고 있습니다.
   * 시연 영상 : [관리자페이지(Google Drive Video)](https://drive.google.com/open?id=1XUVi94smJ6ZNrKiTSmE8BMY2t_E7_aql), [사용자페이지(Google Drive Video)](https://drive.google.com/open?id=1_n5G8EUWQSp2e5t_C6UUUpjzuCINGVHE)
