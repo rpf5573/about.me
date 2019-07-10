@@ -65,7 +65,7 @@
 
 ### `2017-11 ~ 2018-02` QueensMallo
   * 소개 : 회사에서 진행한 프로젝트입니다. 호주와 한국을 대상으로 하는 다국어 쇼핑몰입니다.
-  * 링크 : [queensmallo.com](https://queensmallo.com)( 서버가 호주에 있어서 속도가 느립니다 )
+  * 링크 : [queensmallo.com](https://queensmallo.com)
   * 참여도 : 100%
   * 사용기술 : WordPress( PHP, MySQL, CSS, Javascript ), WooCommerce
   * 주요기능
